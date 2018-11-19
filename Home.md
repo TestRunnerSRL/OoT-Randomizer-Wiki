@@ -1,4 +1,4 @@
-## Welcome to the ootr wiki!
+## Welcome to the Ocarina of Time Randomizer Wiki!
 
-### Topics
-* [Frequently Asked Questions](https://github.com)
+### Frequently Asked Questions
+* ["My Seed Is Broken!"](../FAQ---Broken-Seed)
