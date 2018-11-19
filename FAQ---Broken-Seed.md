@@ -1,5 +1,7 @@
 ## "My Seed Is Broken!"
-Solutions to completing randomized runs of _Ocarina of Time_ can sometimes be unintuitive. While your seed may appear to be unbeatable, this isn't often the case. Thanks to developers much smarter than myself, OoTR's logic is surprisingly robust. Listed below are some common sources of confusion, grouped by location. If you don't mind spoiling the rest of your playthrough, instructions to finding your next step will be listed [here](#knowing-the-way-with-the-spoiler-log). If you need more help, feel free to ask for support in the [Discord Server](https://discord.gg/3VJPQNK). If it turns out you have indeed encountered a logical flaw, kind members of our team will report issues from there.
+Solutions to completing randomized runs of _Ocarina of Time_ can sometimes be unintuitive. While your seed may appear to be unbeatable, this isn't often the case. Thanks to developers much smarter than myself, OoTR's logic is surprisingly robust. Listed below are some common sources of confusion, grouped by location. If you don't mind spoiling the rest of your playthrough, instructions to finding your next step will be listed [here](#knowing-the-way-with-the-spoiler-log).
+
+If you follow these steps and still need help, you're welcome to ask for support in the [Discord Server](https://discord.gg/3VJPQNK). Make sure to provide your seed and setting string along with any important details about the issue. If it turns out you have indeed encountered a logical flaw, kind members of our team will report issues from there.
 
 ### Link's House:
 #### Stuck beside Bed
