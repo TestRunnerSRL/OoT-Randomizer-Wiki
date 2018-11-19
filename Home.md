@@ -1,4 +1,4 @@
 ## Welcome to the Ocarina of Time Randomizer Wiki!
 
 ### Frequently Asked Questions
-* ["My Seed Is Broken!"](../FAQ---Broken-Seed)
+* ["My Seed Is Broken!"](FAQ---Broken-Seed)
