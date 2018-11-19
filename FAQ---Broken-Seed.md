@@ -7,7 +7,7 @@ If you follow these steps and still need help, you're welcome to ask for support
 
 ### Link's House:
 #### Stuck beside bed
-* Tilt the Control Stick to make Link move. Move him out the door and you will reach Kokiri Forest. The game gets much easier from there.
+* Tilt the Control Stick to move around. Go through the door and you will reach Kokiri Forest. The game gets much easier from there.
 
 ### Hyrule Field
 #### Open grottos without Bombs
@@ -15,12 +15,12 @@ If you follow these steps and still need help, you're welcome to ask for support
 * Some grottos will only reveal themselves when you play Song of Storms.
 
 ### Kakariko Village:
-#### Well won't drain
-* Project 64 is known to have issues with this, among other things. For the purposes of this project, we can only recommend using a different emulator.
 #### Shooting Gallery gives 50 rupees
 * The Fairy Bow/Quiver is required to win the special prize. Otherwise you will receive 50 rupees.
 #### Can't get onto rooftops without Longshot
 * Yes you can. Get a little closer and use the Hookshot.
+#### Well won't drain
+* Project 64 is known to have issues with this, among other things. For the purposes of this project, we can only recommend using a different emulator.
 
 ### Goron City:
 #### Reach Goron City from Lost Woods without Bombs
@@ -44,6 +44,8 @@ If you follow these steps and still need help, you're welcome to ask for support
 #### Go fishing
 * You must have a sword in order to play the fishing minigame. It's because you need to threaten him or something.  
 // FIXME: Is this still true? Do you need Kokiri Sword specifically?
+#### Get Scarecrow's Song
+* In order to use the Scarecrow's Song, you must teach it to Bonooru as a child, and remind him again as an adult.
 
 ### Temple of Time:
 #### Open Door of Time
@@ -65,13 +67,33 @@ If you follow these steps and still need help, you're welcome to ask for support
 #### Reach Volvagia without Hammer
 * With Hover Boots equipped, it's a simple matter of floating over to the boss door. That said, you'll need the Hammer to actually _do_ anything in there.
 
+### Water Temple:
+#### Boss Key chest without Bombs or Goron's Bracelet
+* Use the Hover Boots to reach the chest.
+#### Getting past the gate without Longshot
+* After shooting the eye switch, crossing the gap with Hover Boots will get you past the gate before it closes.
+#### Center room's Gold Skulltula without Longshot
+* Cast Farore's Wind inside the center room. Raise the water to its highest level and return to the warp point. Swim to the surface to reach the Gold Skulltula.
+#### I can't raise the water level
+* With the water level lowered, jump down to the second level of the central structure. Use the Hookshot to climb onto the top level. With a well-spaced rolling jump you should be able to reach the ledge where you can raise the water to its highest level.
+
 ### Shadow Temple:
 #### Spike floor room without Longshot
 * Backflip onto the chest spawned in the middle of the room. From there you can use the Hookshot to reach the upper ledge.
+#### Reach the boat without Goron's Bracelet
+* You can bypass pushing the large block by shooting the ladder with a Hookshot.
+#### Reach Bongo Bongo without the Fairy Bow
+* Play the Scarecrow's Song to summon Pierre. Shoot his face with the Longshot to get to the other side.
 
 ### Spirit Temple:
 #### Lower metal bridge on child side without Boomerang
 * You can hit the crystal switch with a well-timed Bombchu placement in the opposite direction. Hopefully you'll hit it, or you'll have to go out and buy more Bombchus.
+#### Map chest without Din's Fire or Magic
+* Child Link is perfectly capable of lighting the torches using only a Deku Stick.
+#### Collect all the silver rupees in the boulder room without Hover Boots
+* You can reach the floating rupee by jumping into the boulder with a jump slash.
+#### Silver Guantlets chest from adult side using Longshot
+* With a Longshot, shoot the chest opposite from the Mirror Shield chest to gain access to its contents and the end of child-side.
 
 ### Gerudo Training Grounds:
 #### Lava room without Longshot
