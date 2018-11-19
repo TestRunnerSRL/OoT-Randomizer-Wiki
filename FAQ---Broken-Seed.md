@@ -9,17 +9,26 @@ If you follow these steps and still need help, you're welcome to ask for support
 #### Stuck beside bed
 * Tilt the Control Stick to make Link move. Move him out the door and you will reach Kokiri Forest. The game gets much easier from there.
 
+### Hyrule Field
+#### Open grottos without Bombs
+* Any grotto you can open with Bombs may also be opened with Hammer.
+* Some grottos will only reveal themselves when you play Song of Storms.
+
 ### Kakariko Village:
 #### Well won't drain
 * Project 64 is known to have issues with this, among other things. For the purposes of this project, we can only recommend using a different emulator.
 #### Shooting Gallery gives 50 rupees
 * The Fairy Bow/Quiver is required to win the special prize. Otherwise you will receive 50 rupees.
+#### Can't get onto rooftops without Longshot
+* Yes you can. Get a little closer and use the Hookshot.
 
 ### Goron City:
 #### Reach Goron City from Lost Woods without Bombs
 * You can ignite the Bomb Flowers behind the boulders using Din's Fire.
 #### Get big rolling Goron to relinquish goods
 * Even if you have serious Zelda skills (or Bombchus), a Bomb Bag is required. Bomb the Goron in the tunnel near the sign.
+#### Boulder Maze without Bombs or Hammer
+* Silver Guantlets are effective at clearing a path to each of the chests in the room. This will take some time, however.
 
 ### Lost Woods:
 #### Skull Kid won't buy this sweet Skull Mask
@@ -43,6 +52,18 @@ If you follow these steps and still need help, you're welcome to ask for support
 ### Forest Temple:
 #### Get outside without Song of Time or Bow
 * With Hover Boots you can float to the door connecting the large block-pushing room with the courtyard.
+#### Can't push large colored blocks as adult, wtf man??
+* The Goron's Bracelet is required to push these blocks, even as adult. Link only put on gauntlets to keep his hands from drying out.
+
+### Death Mountain Crater:
+#### Reach the bottom area for Bolero of Fire and access to Fire Temple
+* Using only the Hover Boots, you can float down to the shortcut to Goron City, and across the dilapidated bridge.
+* You can also reach this bottom area with Scarecrow's Song and the Longshot by by jumping onto the platforms below and pulling yourself across the pool of lava.  
+// FIXME: Do you need Hover Boots to reach the platforms around scarecrow?
+
+### Fire Temple:
+#### Reach Volvagia without Hammer
+* With Hover Boots equipped, it's a simple matter of floating over to the boss door. That said, you'll need the Hammer to actually _do_ anything in there.
 
 ### Shadow Temple:
 #### Spike floor room without Longshot
