@@ -1,4 +1,4 @@
-# Setting Information
+# Settings Information
 
 The OoT Randomizer offers many different settings to customize your play experience. Here's a fully detailed list!
 
@@ -6,7 +6,9 @@ The OoT Randomizer offers many different settings to customize your play experie
 
 ## Base Rom
 
-Specify the input ROM that will be used by the randomizer. Please be sure it is OoT US v1.0.
+Specify the input ROM that will be used by the randomizer. Please be sure it is OoT US v1.0. 
+
+OoT JP v1.0 will be supported in future releases. In the meantime, you can convert a J rom by editing address 0x3E, which is set to 0x4A (an ASCII 'J') to 0x45 (an ASCII 'E'). If the rom is byteswapped, the value will instead be somewhere between address 0x3C and 0x3F
 
 ## Output Directory
 
